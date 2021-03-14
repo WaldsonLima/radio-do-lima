@@ -1,10 +1,72 @@
 body {
-    background: #E0ECF8 ;
+    background: url(fundo.png) ;
     text-align: center;
 }
 
 .conteudo {
+    background-color: #E0ECF8;
     width: 450px;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+}
+
+.buton {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    display: block;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 6px 10px;
+    text-decoration: none;
+    background-color: #F7F8E0;
+    box-shadow: inset 0px 1px 0px 0px #F2F2F2;
+    text-shadow: 0px 1px 0px #F2F2F2;
+    color: black;
+}
+
+.avisolateral {
+    background-color: #F6CECE;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    float: right;
+    position: fixed;
+    right: 20px;
+}
+
+.contato {
+    color: #424242;
+}
+
+.dindin {
+    color: #424242;
+}
+
+a:hover {
+    background: #A9F5F2;
+}
+
+#titulo {
+    background-color: #E0ECF8;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 7.5px;
+    border-radius: 20px;
 }
