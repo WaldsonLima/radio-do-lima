@@ -99,7 +99,7 @@ a:hover {
     padding-right: 20px;
     padding-bottom: 30px;
     border-radius: 20px;
-    float: inline-start;
+    float: left;
 }
 
 #anuncio2 {
@@ -115,7 +115,7 @@ a:hover {
     padding-right: 20px;
     padding-bottom: 30px;
     border-radius: 20px;
-    float: inline-end;
+    float: right;
 }
 
 img {
